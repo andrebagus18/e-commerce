@@ -60,7 +60,7 @@ The database schema is provided in `database.sql`.
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/e-commerce.git
+git clone https://github.com/andrebagus18/e-commerce.git
 
 2. Create a PostgreSQL database.
 
